@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tatinee</h1>
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently working with **C, C++**
 
 - 💬 Ask me about **C++, Python, Data Structure, Problem Solving**
 
